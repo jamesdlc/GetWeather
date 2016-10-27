@@ -9,7 +9,9 @@ module.exports = {
     alias: {
       Main: 'app/components/Main.jsx',
       Navigation: 'app/components/Navigation.jsx',
-      Weather: 'app/components/Weather.jsx'
+      Weather: 'app/components/Weather.jsx',
+      About: 'app/components/About.jsx',
+      Examples: 'app/components/Examples.jsx'
     },
     extensions: ['', '.js', '.jsx']
   },
