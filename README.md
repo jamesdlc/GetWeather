@@ -1,2 +1,5 @@
-#Hello React
-Developing "Hello World" style application in React.
+#Get Weather
+Search for a city and see their current weather!
+
+## Tech Used
+- React
