@@ -1,12 +1,14 @@
 var React = require('react');
-var Nav = require('Nav');
+var Navigation = require('Navigation');
+var Weather = require('Weather');
 
 var Main = React.createClass({
   render: function () {
     return (
       <div>
-        <Nav/>
+        <Navigation/>
         <h2>Main Component</h2>
+        {this.props.children}
       </div>
     );
   }
