@@ -2,9 +2,10 @@ var React = require('react');
 
 var WeatherFormMessage = React.createClass({
   render: function () {
+    var {location, temp} = this.props;
     return (
       <div>
-        <p> Weather From Message Component </p>
+        <p> It's {temp} degrees in {location} right now. </p>
       </div>
     );
   }
