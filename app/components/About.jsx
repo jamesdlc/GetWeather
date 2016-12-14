@@ -19,9 +19,17 @@ var About = (props) => {
       </li>
     </ul>
     <p><strong>More About James de la Cruz</strong></p>
-    <Link to='www.github.com/jamesdlc'>GitHub</Link> <br />
-    <Link to='www.jamesdlc.com'>Portfolio</Link> <br />
-    <Link to='www.linkedin.com/jamesdelacruz'>LinkedIn</Link> <br />
+    <ul>
+      <li>
+        <a href="http://www.github.com/jamesdlc">GitHub</a>
+      </li>
+      <li>
+        <a href="http://www.jamesdlc.com">Portfolio</a>
+      </li>
+      <li>
+        <a href="http://www.linkedin.com/in/jamesdelacruz">LinkedIn</a>        
+      </li>
+    </ul>
   </div>
   )
 };
