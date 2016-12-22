@@ -1,7 +1,7 @@
 #Get Weather
 Search for a city and see their current weather!
 
-## Launch application
+## Application Link
 http://pure-plateau-38043.herokuapp.com/
 
 
@@ -9,4 +9,4 @@ http://pure-plateau-38043.herokuapp.com/
 - React
 - JavaScript
 - HTML5
-- CSS3
+- SCSS
