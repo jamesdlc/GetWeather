@@ -4,7 +4,7 @@ var {Link} = require('react-router');
 var About = (props) => {
   return (
   <div>
-    <h1 className="text-center">About</h1>
+    <h1 className="text-center page-title">About</h1>
     <p>Weather application using the Open Weather Map API built on React, by James de la Cruz.</p>
     <p><strong>Tools Used</strong></p>
     <ul>
@@ -27,7 +27,7 @@ var About = (props) => {
         <a href="http://www.jamesdlc.com">Portfolio</a>
       </li>
       <li>
-        <a href="http://www.linkedin.com/in/jamesdelacruz">LinkedIn</a>        
+        <a href="http://www.linkedin.com/in/jamesdelacruz">LinkedIn</a>
       </li>
     </ul>
   </div>
