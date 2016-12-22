@@ -1,5 +1,5 @@
 #Get Weather
-Search for a city and see their current weather!
+Search weather data by city!
 
 ## Application Link
 http://pure-plateau-38043.herokuapp.com/
