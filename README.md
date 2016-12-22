@@ -10,3 +10,4 @@ http://pure-plateau-38043.herokuapp.com/
 - JavaScript
 - HTML5
 - SCSS
+- Foundation
